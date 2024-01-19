@@ -83,7 +83,7 @@
     <PackageReference Include="Renci.SshNet.Async" Version="1.4.0" />
     <PackageReference Include="ReportGenerator" Version="5.0.2" />
     <PackageReference Include="System.Data.Common" Version="4.3.0" />
-    <PackageReference Include="System.Data.SqlClient" Version="4.8.3" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.6" />
     <PackageReference Include="System.DirectoryServices" Version="6.0.0" />
     <PackageReference Include="System.Management" Version="6.0.0" />
     <PackageReference Include="System.Resources.ResourceManager" Version="4.3.0" />
